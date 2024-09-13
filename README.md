@@ -10,7 +10,7 @@ I am uses 4 service(IAM role, Lambda, Dynamodb, S3, application for runing proje
 # Lab overview and high desing
 lest's start 
 
-![Blank diagram - Page 1](https://github.com/user-attachments/assets/dc0d6701-b5fb-4f9e-bb0d-c8c704641751)
+![server-Arch (2) (1)](https://github.com/user-attachments/assets/adede9ee-9504-4dfd-82e7-e54fb29d4c6c)
 
 The overview of serverless architecture project 
 
